@@ -1,3 +1,4 @@
+
 class Unicode extends Thread {
 	public static void main(String [] args) {
 		for (int i=0 ; i<10 ; i++) {
@@ -6,10 +7,9 @@ class Unicode extends Thread {
 		}
 	}
 }
-//
 
 /*
-
+import java.io.PrintStream;
 import java.io.UnsupportedEncodingException;
 
 public class Unicode {
