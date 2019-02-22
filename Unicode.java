@@ -1,3 +1,4 @@
+// A partir do clone
 
 class Unicode extends Thread {
 	public static void main(String [] args) {
