@@ -1,4 +1,4 @@
-![image](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ed5569e8-c0dd-458c-8450-cde6300093bd/File/26d48b7b749c927c6b694ac463e92b22/duke_jetsurf_orig.png)
+![image](https://static.wixstatic.com/media/0a7ff7_4e4e83b254a241a8a0b486e0e5eeb9bd~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_90,usm_0.66_1.00_0.01/0a7ff7_4e4e83b254a241a8a0b486e0e5eeb9bd~mv2.jpg)
 
 # Minhas aulas de introdução a algoritmos em Java 
 
